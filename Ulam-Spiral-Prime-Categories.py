@@ -1,3 +1,24 @@
+# Ulam-Spiral-Prime-Categories.py
+# Version 1.0.0
+# Created 11.11.2024 
+# Author: Linus81 aka Giuseppe Musciacchio (github.com/linus81)
+# 
+# Copyright (C) 2024 Linus81 aka Giuseppe Musciacchio
+# 
+# The Ulam-Spiral-Prime-Categories library is free software; you can redistribute it and/or 
+# modify it under the terms of the GNU Lesser General Public License as published by the 
+# Free Software Foundation; either version 2.1 of the License, or (at your option) any later version.
+# 
+# The Library is distributed in the hope that it will be useful, 
+# but WITHOUT ANY WARRANTY; without even the implied warranty of 
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
+# See the GNU Lesser General Public License for more details.
+# 
+# You should have received a copy of the GNU Lesser General Public License along with the 
+# GNU C Library; if not, see <http://www.gnu.org/licenses/>.
+
+
+
 import pygame
 import sys
 import math
