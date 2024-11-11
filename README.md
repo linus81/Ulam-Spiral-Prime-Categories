@@ -34,7 +34,7 @@ This project uses Pygame to generate an Ulam spiral, a graphical representation 
 Run the script with Python to open the Pygame window and start the visualization:
 
 ```bash
-python3 ulam_spiral.py
+python3 Ulam-Spiral-Prime-Categories.py
 ```
 
 The program will open a 600x600 window displaying the Ulam spiral. Prime numbers will appear in different colors based on their category.
